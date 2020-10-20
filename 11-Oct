@@ -1,1 +1,81 @@
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>bokemon</title>
+<style>
+body {
+  background-color: #140909;
+  color: white;
+  font-size: 20px;
+}
+
+h1{
+    color: turquoise;
+}
+  
+.footer {
+ 
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color:turquoise;
+   color: white;
+   text-align: center;
+}
+
+
+</style>
+
+
+</head>
+<body>
+      <center>
+    <div class="header">
+     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/International_Pok%C3%A9mon_logo.svg/1200px-International_Pok%C3%A9mon_logo.svg.png"
+        width="600px" height="200px">
+    </div>
+</center>
+
+
+<center> <h1>The History</h1></center>
+<p>  
+The name is taken from the two English words “Pocket Monsters”, which means pocket monsters.
+ This series became famous in the United States in 1997 when Nintendo released its Pokemon game in the first American special edition.
+</p>
+
+<center> <h1>The Name</h1></center>
+<p>The name Pokémon is the portmanteau of the Japanese brand Pocket Monsters.The term "Pokémon", 
+    in addition to referring to the Pokémon franchise itself, also collectively refers to the 896 fictional species that have made appearances in Pokémon 
+    media as of the release of the eighth generation titles Pokémon Sword and Shield. "Pokémon" is identical in the singular and plural, 
+    as is each individual species name; It is grammatically correct to say "one Pokémon" and "many Pokémon", as well as "one Pikachu" and "many Pikachu".
+</p>
+
+
+<center> <h1> Squirrel </h1></center>
+<p>
+    Squirrel is one of the distinctive cartoon characters, when this character is born, his shell is soft and strengthened with time, and the greater the strength of his shell, 
+    it is his inner energy and also the water spray emanating from his mouth, and his shell is used to hide in the event of his escape, 
+    and Squirrel is a turtle and he was called Squirrel, which means flow Water.
+</p>
+<br> <br> <br>
+
+<lift>
+<img src="https://assets.pokemon.com/assets/cms2/img/pokedex/full/007.png" 
+height="350px" width="600px" >
+</lift>
+
+<right>
+    <img src="https://i.pinimg.com/originals/28/28/c3/2828c334a2e2254eee622c532f4c53a0.gif" 
+    height="350px" width="600px" >
+    </right>
+
+
+    <br>
+    <footer class="footer">
+        <p>Copyright &copy;bilbeisi.heba</p>
+           </footer>
+</body>
+</html>
