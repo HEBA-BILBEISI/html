@@ -1,1 +1,97 @@
 
+<!-- yellow boxes -->
+<!DOCTYPE html>
+<html>
+
+<head>
+  <style>
+    .grid-container {
+      display: grid;
+      grid-template-columns: auto auto auto auto;
+      grid-gap: 10px;
+      background-color: white;
+      padding: 10px;
+    }
+
+    .grid-container>div {
+      background-color: #FFFF00;
+      text-align: center;
+      font-size: 90px;
+
+    }
+  </style>
+</head>
+
+<body>s
+
+  <h1>What do you think !</h1>
+
+
+  <div class="grid-container">
+    <div>3</div>
+    <div>2</div>
+    <div>6</div>
+    <div>4</div>
+    <div>7</div>
+    <div>8</div>
+    <div>5</div>
+    <div>1</div>
+  </div>
+
+</body>
+
+</html>
+
+***********************************
+
+<!-- color boxs -->
+<!DOCTYPE html>
+<html>
+
+<head>
+  <style>
+    .grid-container {
+      display: grid;
+      grid-template-columns: auto auto auto auto;
+      grid-gap: 0px;
+      background-color: white;
+      border-style: solid;
+      border-width: 10px;
+      border-color: lightsalmon;
+      padding: 0px;
+    }
+
+    .grid-container>div {
+
+      text-align: center;
+      padding: 80px 0px;
+      font-size: 50px;
+      color: white;
+      margin: 0px;
+    }
+  </style>
+</head>
+
+<body>
+
+  <div class="grid-container">
+    <div style="background-color : turquoise;" class="two">1</div>
+    <div style="background-color: steelblue ;" class="two">2</div>
+    <div style="background-color: rgb(247, 0, 255) ;" class="two">3</div>
+    <div style="background-color: #0f3057 ;" class="two">4</div>
+    <div style="background-color: yellow ;" class="two">5</div>
+    <div style="background-color: orange ;" class="two">6</div>
+    <div style="background-color: red ;" class="two">7</div>
+    <div style="background-color: silver ;" class="two">8</div>
+    <div style="background-color: #44EFB5 ;" class="two">9</div>
+    <div style="background-color:#21D2B3;" class="two">10</div>
+  </div>
+
+
+
+</body>
+
+</html>
+
+*****************************************************************
+
